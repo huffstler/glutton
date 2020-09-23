@@ -22,4 +22,4 @@ The idea for glutton is as follows - 3 parts to the application:
  
  # Web UI
  
- LMAO we'll get there when we get there. (svelte question mark?)
+ LMAO we'll get there when we get there. ([svelte](https://svelte.dev/) question mark?)
